@@ -1,8 +1,5 @@
-= Coding Dojo -Round1
-
 == 題目: 留言板
 
-* 預計的部屬環境: 以 mvn spring-boot:run 在某台電腦上，並開啟 80 port 讓其他人訪問網頁介面
 * 基礎環境
 ** Database: H2 run in memory
 ** Java Dependencies: Spring-MVC, Thymeleaf, Spring-Data-JPA, Lombok
